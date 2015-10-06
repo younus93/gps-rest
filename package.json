@@ -1,0 +1,25 @@
+{
+  "name": "gps-rest",
+  "version": "1.0.0",
+  "description": "data collector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younus93/gps-rest.git"
+  },
+  "author": "younus farveaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younus93/gps-rest/issues"
+  },
+  "homepage": "https://github.com/younus93/gps-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "multer": "^1.0.6",
+    "mysql": "^2.9.0",
+    "path": "^0.12.7"
+  }
+}
