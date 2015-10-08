@@ -6,8 +6,8 @@ app.use(bodyParser.json());
 
 var connection = mysql.createConnection({
   host     : 'mysql.theyounus.com',
-  user     : 'theyounuscom',
-  password : 'NLch-*iL'
+  user     : '',
+  password : ''
 });
 
 connection.query('USE gps_database_younus');
